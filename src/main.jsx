@@ -30,7 +30,7 @@ const router = createBrowserRouter([
 ]);
 
 const client = new ApolloClient({
-  uri: "https://api-eu-central-1-shared-euc1-02.hygraph.com/v2/clge1u44d0e9f01upbd60ajac/master",
+  uri: "https://api-eu-central-1-shared-euc1-02.hygraph.com/v2/clgguwymc1ekv01uj7uvnbht7/master",
   cache: new InMemoryCache(),
 });
 
